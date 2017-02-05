@@ -273,4 +273,4 @@ persist.sys.usb.config=mtp,adb
  
  # 16bit Transparency 
 
- persist.sys.use_16bpp_alpha=1 
+ persist.sys.use_16bpp_alpha=1
