@@ -54,9 +54,9 @@ persist.sys.dpmd.nsrm=3
 #persist.dpm.loglevel=7825
 
 # Dex2oat limits
-dalvik.vm.boot-dex2oat-threads=4
-dalvik.vm.dex2oat-threads=2
-dalvik.vm.image-dex2oat-threads=4
+dalvik.vm.boot-dex2oat-threads=12
+dalvik.vm.dex2oat-threads=8
+dalvik.vm.image-dex2oat-threads=12
 
 # GPS
 persist.gps.qc_nlp_in_use=1
@@ -130,7 +130,6 @@ persist.sys.usb.config=mtp,adb
  ro.mot.eri.losalert.delay=1000 
  ro.config.hw_fast_dormancy=1 
  ro.ril.enable.amr.wideband=1 
- ro.config.hw_fast_dormancy=1 
  ro.config.hw_quickpoweron=true 
 
  # Miscellaneous Tweaks 
