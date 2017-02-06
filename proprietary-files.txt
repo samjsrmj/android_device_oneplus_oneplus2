@@ -246,12 +246,10 @@ framework/dpmapi.jar
 framework/tcmclient.jar
 -priv-app/dpmserviceapp/dpmserviceapp.apk|27f91229cdbcec87edaf23c6b821c64a108dad83
 vendor/lib/libdpmctmgr.so
-vendor/lib/libdpmfdmgr.so
 vendor/lib/libdpmframework.so
 vendor/lib/libdpmnsrm.so
 vendor/lib/libdpmtcm.so
 vendor/lib64/libdpmctmgr.so
-vendor/lib64/libdpmfdmgr.so
 vendor/lib64/libdpmframework.so
 vendor/lib64/libdpmnsrm.so
 vendor/lib64/libdpmtcm.so
@@ -443,7 +441,6 @@ vendor/lib64/libsmemlog.so
 
 # Radio
 -app/datastatusnotification/datastatusnotification.apk|d5b8dbdfb9010758dffec92851937ded0bcca43b
--app/fastdormancy/fastdormancy.apk|3a7ba6ce1796fea35932b68a465071a1db72fef1
 -app/QtiTelephonyService/QtiTelephonyService.apk|b3bd4921c583936d82d40582bde113fd58622efb
 -app/shutdownlistener/shutdownlistener.apk|5423f30ebab40e4a5b6609048681e060531e1eea
 bin/ipacm-diag
